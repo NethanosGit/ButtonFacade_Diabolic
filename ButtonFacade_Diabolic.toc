@@ -1,0 +1,12 @@
+## Interface: 30300
+## Name: ButtonFacade_Diabolic
+## Title: ButtonFacade: |cff8a0707Diabolic|r
+## Version: 1.0
+## Author: Lars "Goldpaw" Norberg
+## Backport: Nethanos
+## DefaultState: Enabled
+## Dependencies: ButtonFacade
+## X-License: All Rights Reserved
+## X-Category: Artwork
+
+Skins.lua
